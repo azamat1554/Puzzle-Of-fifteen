@@ -1,5 +1,5 @@
 .idea/
 target/
-*.xml
-*.iml
+*.[xi]ml
+!pom.xml
 *.exe
